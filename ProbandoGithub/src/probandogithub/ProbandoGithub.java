@@ -17,7 +17,7 @@ public class ProbandoGithub {
     public static void main(String[] args) {
         // TODO code application logic here
         int a = 6;
-        String b = "mar";
+        String b = "puen";
         char c = 't';
 
         System.out.println("Mi número favorito es el " + a + " mi día favorito es el " + b + "tes y la letra la " + c);
